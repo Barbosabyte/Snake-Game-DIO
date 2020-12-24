@@ -1,2 +1,3 @@
 # Snake-Game-DIO
-Jogo da Cobrinha em javaScript
+**PT:** Jogo da Cobrinha em javaScript
+**EN:** javaScript Snake game.
